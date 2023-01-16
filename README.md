@@ -1,10 +1,5 @@
 # 자기소개
 
-<p align="center">
-<a href="https://github.com/dfsdf5645/">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dfsdf5645&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 이름: 이가영
 
